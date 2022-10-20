@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/coronarita/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tannhv.github.io/mywordpress/san-pham/coronarita/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 14 Oct 2022 16:47:56 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 02:03:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>

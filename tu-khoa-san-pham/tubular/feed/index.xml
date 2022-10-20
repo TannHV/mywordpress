@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/tubular/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tannhv.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 13 Oct 2022 09:47:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 02:27:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Meat behold</title>
 		<link>https://tannhv.github.io/mywordpress/san-pham/meat-behold/</link>

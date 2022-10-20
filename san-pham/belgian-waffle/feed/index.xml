@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/belgian-waffle/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tannhv.github.io/mywordpress/san-pham/belgian-waffle/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 13 Oct 2022 04:01:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 01:39:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
