@@ -27,9 +27,9 @@ Header Style
 @media screen and (min-width: 783px) {
 	/* .admin-bar .she-header-transparent-sticky-yes,
 	.admin-bar .she-header-transparent-yes,
-.admin-bar .she-header-yes, */
+	.admin-bar .she-header-yes, */
 	.admin-bar .she-header {
-			top: 32px !important;
+		top: 32px !important;
 	}
 }
 
@@ -52,27 +52,21 @@ Header Style
 
 .she-header-transparent-yes {
 	position: absolute !important;
-	-webkit-transition: top 0s !important;
-	-o-transition: top 0s !important;
-	transition: top 0s !important;
+	-webkit-transition: all 0.4s ease-in-out, top 0s;
+	-o-transition: all 0.4s ease-in-out, top 0s;
+	transition: all 0.4s ease-in-out, top 0s;
 	background-color: rgba(0, 0, 0, 0) !important;
 	z-index: 99;
-	-webkit-transition: all 0.4s ease-in-out;
-	-o-transition: all 0.4s ease-in-out;
-	transition: all 0.4s ease-in-out;
 	width: 100%;
 }
 
 .elementor-editor-active .she-header-transparent-yes {
 	position: absolute !important;
-	-webkit-transition: top 0s !important;
-	-o-transition: top 0s !important;
-	transition: top 0s !important;
+	-webkit-transition: all 0.4s ease-in-out, top 0s;
+	-o-transition: all 0.4s ease-in-out, top 0s;
+	transition: all 0.4s ease-in-out, top 0s;
 	background-color: rgba(0, 0, 0, 0) !important;
 	z-index: 99;
-	-webkit-transition: all 0.4s ease-in-out;
-	-o-transition: all 0.4s ease-in-out;
-	transition: all 0.4s ease-in-out;
 	width: 100%;
 }
 
